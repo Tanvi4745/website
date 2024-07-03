@@ -81,7 +81,7 @@ p {
     grid-template-columns: 1fr 6fr;
     grid-template-rows: repeat(1, 1fr);
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
     text-align: left;
     row-gap: 2rem;
 }
