@@ -1,0 +1,143 @@
+.top-container{
+    background-color: rgb(229, 207, 247); 
+}
+body {
+    text-align: center;   
+}
+.top-cloud {
+    right: 700px;
+    top: 40px;
+}
+.title-text
+{
+    font-family: 'Cookie', cursive;
+}
+h1 {
+    color:rgb(91, 8, 136);
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-weight:500;
+    align-self: center;
+}
+h2 {
+    color:rgb(157, 118, 193);
+    font-size: 3rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.middle-container {
+    margin: 90px 0;
+    
+}
+.pic{
+    border-radius: 50%;
+    margin-left: 10px;
+}
+#hello {
+    color: rgb(91, 8, 136);
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 0.5px;
+}
+
+.intro {
+    font-size:medium;
+    font-weight: bold;
+    width: 400px;
+    margin: auto;
+    padding-bottom: 90px;
+}
+.my{
+    color: rgb(91, 8, 136); 
+}
+p {
+    line-height: 2;
+    font-size:45%;
+}
+h3 {
+    color:rgb(157, 118, 193);
+    font-family: "Montserrat",serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font: size 35px;
+}
+
+.skills{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.cat{
+    border-radius: 50%;
+    margin-top:30px;
+    margin-right:25px;
+    
+}
+.chillies{
+    border-radius: 50%;
+    margin-top:40px;
+    margin-right:25px;
+}
+.btn {
+    background: rgb(91, 8, 136);
+    background-image: -webkit-linear-gradient(top,rgb(157, 118, 193),rgb(91, 8, 136) );
+    background-image: -moz-linear-gradient(top,rgb(157, 118, 193), rgb(91, 8, 136));
+    background-image: -ms-linear-gradient(top,rgb(157, 118, 193), rgb(91, 8, 136));
+    background-image: -o-linear-gradient(top,rgb(157, 118, 193), rgb(91, 8, 136));
+    background-image: linear-gradient(to bottom,rgb(157, 118, 193), rgb(91, 8, 136));
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.bottom-container {
+    background-color:rgb(91, 8, 136);
+    padding: 50px 0 20px;
+}
+a {
+    color:rgb(157, 118, 193) ;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+p {
+    line-height: 2;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
